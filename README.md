@@ -41,6 +41,26 @@
 
 ---
 
+<!-- CERTIFICATES -->
+<h2 align="center">🏅 Certificates</h2>
+<p align="center">
+  <!-- Badge style: simple clickable images -->
+  <a href="https://hackerrank.com/certificates/de4989473296" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Certificate-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Cert 1"/>
+  </a>
+  <a href="https://hackerrank.com/certificates/377a52c32619" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Certificate-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Cert 2"/>
+  </a>
+  <a href="https://hackerrank.com/certificates/a82187f559cb" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Certificate-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Cert 3"/>
+  </a>
+  <a href="https://hackerrank.com/certificates/bd0a7ba193e6" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Certificate-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Cert 4"/>
+  </a>
+</p>
+
+---
+
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <table align="center">
