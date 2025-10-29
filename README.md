@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="opencv" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="opencv" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="opencv" width="48" height="48"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giabao1712&bg_color=ffffff00&color=00b159&line=00b159&point=00b159&area=true&hide_border=true" width="100%"/>
 
 </p>
 
