@@ -24,6 +24,7 @@
 <h2 align="center">🛠️ Skills & Tools</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="ML/AI"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
